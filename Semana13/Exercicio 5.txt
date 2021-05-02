@@ -1,0 +1,2 @@
+Para implementar o ERP3, será necessário um arquivo de credenciais com o nome do ERP3 e dados de acesso ao banco de dados, como instância, nome do banco, porta, usuario e senha.
+Os relatórios poderiam manter os mesmos formatos.
