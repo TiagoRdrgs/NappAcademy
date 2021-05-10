@@ -1,0 +1,1 @@
+﻿No sellout antigamente poderia ser utilizado, mas hoje já existem algumas classes abstratas e está evoluindo.
